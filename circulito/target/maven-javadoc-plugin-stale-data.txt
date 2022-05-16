@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'C:/Users/Gonzalo/Desktop/netbeanasworkspace/Circulo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Gonzalo/Desktop/netbeanasworkspace/Circulo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Circulo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' 'C:/Users/Gonzalo/Desktop/netbeanasworkspace/Circulo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Circulo 1.0-SNAPSHOT API'
+circulo
+'C:/Users/Gonzalo/Desktop/netbeanasworkspace/Circulo/src/main/java/circulo/Circulito.java'
+'C:/Users/Gonzalo/Desktop/netbeanasworkspace/Circulo/src/main/java/circulo/Main.java'
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\src\main\java = 1652262794973
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\allclasses-index.html = 1652350779573
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\allpackages-index.html = 1652350779578
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\element-list = 1652350779509
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\help-doc.html = 1652350779612
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\index-all.html = 1652350779602
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\index.html = 1652350779605
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\jquery-ui.overrides.css = 1652350779666
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\member-search-index.js = 1652350779587
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\module-search-index.js = 1652350779580
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\overview-tree.html = 1652350779556
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\package-search-index.js = 1652350779582
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\script.js = 1652350779617
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\search.js = 1652350779621
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\stylesheet.css = 1652350779615
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\tag-search-index.js = 1652350779589
+C:\Users\Gonzalo\Desktop\netbeanasworkspace\Circulo\target\site\apidocs\type-search-index.js = 1652350779584

@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: circulo.CirculitoTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec <<< FAILURE!
+circulo.CirculitoTest.testTrasladarCentro()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - Erroneous ctor sym type: circulo.Circulito.<init>
+	at circulo.CirculitoTest.testTrasladarCentro(CirculitoTest.java:163)
+
+circulo.CirculitoTest.testEstablecerRadio()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - Erroneous ctor sym type: circulo.Circulito.<init>
+	at circulo.CirculitoTest.testEstablecerRadio(CirculitoTest.java:96)
+
+circulo.CirculitoTest.testEstablecerX()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - Erroneous ctor sym type: circulo.Circulito.<init>
+	at circulo.CirculitoTest.testEstablecerX(CirculitoTest.java:47)
+
+circulo.CirculitoTest.testEstablecerY()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - Erroneous ctor sym type: circulo.Circulito.<init>
+	at circulo.CirculitoTest.testEstablecerY(CirculitoTest.java:72)
+
