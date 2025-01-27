@@ -12,7 +12,7 @@ public class Main {
      *
      * @param args
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) {//comentario
         Circulito circulo = new Circulito(37,43,2.5);
         String salida =
                 "La coordenada X es "+circulo.getCoordenadaX()+
